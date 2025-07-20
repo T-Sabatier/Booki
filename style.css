@@ -559,7 +559,8 @@ footer ul{
     }
     
    .fa-magnifying-glass{
-        padding:10px
+        padding:10px;
+        color: #ffffff;
    }
 
 }
